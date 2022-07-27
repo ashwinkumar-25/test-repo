@@ -16,7 +16,7 @@ change in middle again
 The rest of this README file is mostly random stuff.
 
 Clone the repository with: `git clone https://github.com/zpqrtbnk/test-repo.git .`
-change in mid 2
+
 We have test GitHUb pages (from the `gh-pages` branch) at: http://zpqrtbnk.github.io/test-repo/ 
 
 We have an image in the README (markdown)
